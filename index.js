@@ -1,5 +1,5 @@
 import process from "process";
-/*  const [r, s,t,...numbers] = process.argv
+ const [r, s,t,...numbers] = process.argv
 
 	if (t==="sum") {
 		const addedUp = numbers.reduce((acc,val)=>{
@@ -12,7 +12,7 @@ import process from "process";
 		},0) 
 		console.log(addedUp)
 	}  
-	 */
+	 
 
    const [u, v,w,...figures] = process.argv
 
