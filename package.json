@@ -1,0 +1,21 @@
+{
+  "name": "be-process-awungferd",
+  "version": "1.0.0",
+  "description": "Create a program that takes in an operation to perform (\"sum\" / \"avg\"), and a set of numbers as arguments. The program should print out the result of the calculation to the terminal.",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Awungferd/be-process-Awungferd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Awungferd/be-process-Awungferd/issues"
+  },
+  "homepage": "https://github.com/Awungferd/be-process-Awungferd#readme"
+}
